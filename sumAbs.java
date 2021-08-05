@@ -14,5 +14,3 @@ public class sumAbs {
       return IntStream.of(arr).sum();
     }
 }
-
-
