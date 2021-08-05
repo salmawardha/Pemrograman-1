@@ -1,0 +1,39 @@
+
+Permainan Dimulai.
+Percobaan ke-1
+Tebakan Pemain : 1223
+Tebakan salah | Petunjuk - Merah : 4Kuning : 0Hijau : 0
+Percobaan ke-2
+
+Let's Start!
+Try-1
+Guess a player : 1111
+Guess Wrong | Hint - Red : 3Yellow : 0Green : 1
+Try-2
+Guess a player : 2222
+Guess Wrong | Hint - Red : 4Yellow : 0Green : 0
+Try-3
+Guess a player : 3333
+Guess Wrong | Hint - Red : 4Yellow : 0Green : 0
+Try-4
+Guess a player : 0000
+Guess Wrong | Hint - Red : 3Yellow : 0Green : 1
+Try-5
+Guess a player : 4455
+Guess Wrong | Hint - Red : 4Yellow : 0Green : 0
+Try-6
+Guess a player : 7545
+Guess Wrong | Hint - Red : 3Yellow : 1Green : 0
+Try-7
+Guess a player : 1454
+Guess Wrong | Hint - Red : 3Yellow : 1Green : 0
+Try-8
+Guess a player : 8564
+Guess Wrong | Hint - Red : 4Yellow : 0Green : 0
+Try-9
+Guess a player : 1756
+Guess Wrong | Hint - Red : 2Yellow : 1Green : 1
+Try-10
+Guess a player : 7895
+The secret number is : 0 7 9 1 
+Game Over.
